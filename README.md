@@ -1,2 +1,2 @@
 # django-projects
-Training Projects on Django
+🐍 Training Projects on Django
